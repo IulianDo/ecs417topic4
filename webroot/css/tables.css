@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+}
+
+h2{
+    background-color: red ;
+}
+
+table{
+    width: 100%;
+}
+
+tbody{
+    border: solid 1pt black;
+    border-collapse: separate;    
+}
+
+thead{
+    background-color: rgb(131, 131, 131);
+}
+
+td{
+   border: solid 1pt black;
+}
+img{
+    
+    border-radius: 10%;
+    height: 150px;
+    width: 150px;
+}
